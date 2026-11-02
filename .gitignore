@@ -1,0 +1,31 @@
+## [Visual Studio / .NET Core]
+bin/
+obj/
+out/
+[Bb]in/
+[Oo]bj/
+.vs/
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+*.DotSettings.user
+
+# Build results
+[Dd]ebug/
+[Rr]elease/
+x64/
+x86/
+build/
+bld/
+
+# Publish
+*.Publish.xml
+*.pubxml
+publish/
+
+# Environment / Secret overrides (Keep base appsettings.json for defaults)
+appsettings.Development.json
+
+# Logs
+*.log
